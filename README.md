@@ -1,4 +1,3 @@
-# ai-learning
 # AI Learning Journey
 
 Hi! I'm Glen, and this repository contains my learning journey in Artificial Intelligence (AI).
